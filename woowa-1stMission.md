@@ -14,13 +14,19 @@
 
 ‘우아한테크코스’에 입문하기 위한 첫 발걸음은 프리코스다. 포비의 말을 인용하자면 `우테코도 나를 탐색하고 나도 우테코를 탐색하는 시간`. 탐색을 정말 열심히 했더랬다. Notion에 미션내용과 요구사항 분석한 것, 매일 해야 할 Todo와 회고를 정리했다. 우테코 생활을 한달 넘게 한 이 시점에서 글을 쓰기 위해서 다시 한번 들여다 보았다. 
 
-<img src="https://user-images.githubusercontent.com/63405904/111900110-eacb5b80-8a73-11eb-8abc-d943b79ee484.png" width="70%" height="80%">
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/63405904/111900110-eacb5b80-8a73-11eb-8abc-d943b79ee484.png" width="60%" height="70%">
+
+</p>
 
 프리코스 첫번째 미션을 시작했을 때 작성했던 `나만의 규칙 ver1`이 마지막 미션 `나만의 규칙 ver3.`가 되기까지 짧다면 짧은 3주 동안 늘어난 규칙만큼 성장했다. 중간에 너무 좌절하지 않으려고 애를 써야 했던 시간도 있었고 너무 재미있어서 반드시 합격하고 싶다는 간절함도 커졌다. 그리고 노력하고 기다린 끝에 루터회관 14층에 입성! 
 
-<img src="https://user-images.githubusercontent.com/63405904/111900120-ffa7ef00-8a73-11eb-8c2c-6628fb29f434.png" width="95%">
+<p align="center">
 
+<img src="https://user-images.githubusercontent.com/63405904/111900120-ffa7ef00-8a73-11eb-8c2c-6628fb29f434.png" width="80%">
 
+</p>
 
 ## 일단 루터회관 14층이 마음에 든 이유 
 
