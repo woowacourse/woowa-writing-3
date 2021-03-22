@@ -16,9 +16,7 @@
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/63405904/111900110-eacb5b80-8a73-11eb-8abc-d943b79ee484.png" width="60%" height="70%">
-
-<figcaption>첫 발을 잘 내딪자고 다짐하며 고른 발자국 이모지</figcaption>
+<img src="https://user-images.githubusercontent.com/63405904/111900110-eacb5b80-8a73-11eb-8abc-d943b79ee484.png" width="60%" height="70%" alt="첫 발을 잘 내딪자고 다짐하며 고른 발자국 이모지">
 
 </p>
 
@@ -26,9 +24,7 @@
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/63405904/111900120-ffa7ef00-8a73-11eb-8c2c-6628fb29f434.png" width="80%">
-
-<figcaption>프리코스를 진행하며 덧붙인 나만의 규칙 목록 변천사</figcaption>
+<img src="https://user-images.githubusercontent.com/63405904/111900120-ffa7ef00-8a73-11eb-8c2c-6628fb29f434.png" width="80%" alt="프리코스를 진행하며 덧붙인 나만의 규칙 목록 변천사">
 
 </p>
 
