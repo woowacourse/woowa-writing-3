@@ -15,7 +15,8 @@
 
 
 ![스미스요원](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEgBQ0%2Fbtq05n1hTSG%2FQ46PDKrUzOhSMgUjMcrj3K%2Fimg.jpg)
-########여기가 우아한 테크코스 3기 OT 하는 회의실 맞나요?
+
+> 여기가 우아한 테크코스 3기 OT 하는 회의실 맞나요?
 
 ## 얼음만 깬다면서요..
 상당히 어색한 상태에서 시작한 OT는 기억에 남은것이 거의 없습니다. 아이스 브레이킹을 위해 전사팀이 등장하기 전까지 말입니다.
@@ -57,7 +58,8 @@ gather는 아래와 같은 장점이 있습니다.
 특정한 인원과 대화하고 싶으면 특정 장소로 직접 이동하면 가능하다.
 
 ![askMe](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcu9nSK%2Fbtq06izAlGY%2FyrkKhXp8H7VKrUWkj2tkpK%2Fimg.png)
-########현재 사용중인 gather의 맵
+
+>현재 사용중인 gather의 맵
 
 처음부터 엄청난 활동을 했던것은 아닙니다. 처음엔 그냥 모여서 대화만 하는 정도로 끝났습니다.
 
