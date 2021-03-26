@@ -53,9 +53,9 @@
 
 gather는 아래와 같은 장점이 있습니다.
 
-캐릭터를 움직일 수 있다.
-활동적인 게임이 가능 (움직여서 하는 ox퀴즈, 의자 앉기 게임 ... 등등)
-특정한 인원과 대화하고 싶으면 특정 장소로 직접 이동하면 가능하다.
+* 캐릭터를 움직일 수 있다.
+* 활동적인 게임이 가능 (움직여서 하는 ox퀴즈, 의자 앉기 게임 ... 등등)
+* 특정한 인원과 대화하고 싶으면 특정 장소로 직접 이동하면 가능하다.
 
 ![askMe](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcu9nSK%2Fbtq06izAlGY%2FyrkKhXp8H7VKrUWkj2tkpK%2Fimg.png)
 
