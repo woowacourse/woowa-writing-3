@@ -6,3 +6,8 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+/woowa-writing-3.iml
+/vcs.xml
+/modules.xml
+/misc.xml
