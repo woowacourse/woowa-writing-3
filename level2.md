@@ -49,8 +49,8 @@
 대부분의 공식문서에는 크게 두 가지 섹션이 존재하는 듯합니다.  
 - 빠르게 주요개념과 유즈케이스를 파악할 수 있는 Tutorial (Quick Start, Get Started 등등)  
 - 디테일한 스펙이 기재되어 있는 Reference  
-- 
-![](https://images.velog.io/images/fan/post/54c45177-9cda-4c72-ae6a-a927781e7234/image.png)  
+
+![image](https://user-images.githubusercontent.com/44419181/120099735-22433c00-c178-11eb-90a1-adc94f328b18.png) 
 
 저는 먼저 Tutorial을 봅니다. 미션진행에서 7-80%의 상황은 Tutorial에서 해결할 수 있었습니다.  
 버전업데이트가 빠른 기술영역에서는 가장 정확하고 최신의 내용을 담고 있습니다.  
