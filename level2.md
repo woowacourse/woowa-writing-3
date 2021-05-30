@@ -50,7 +50,7 @@
 - 빠르게 주요개념과 유즈케이스를 파악할 수 있는 Tutorial (Quick Start, Get Started 등등)  
 - 디테일한 스펙이 기재되어 있는 Reference  
 
-![image](https://user-images.githubusercontent.com/44419181/120099735-22433c00-c178-11eb-90a1-adc94f328b18.png) 
+![image](https://user-images.githubusercontent.com/44419181/120099771-4dc62680-c178-11eb-8d6b-2f7dd31368be.png)
 
 저는 먼저 Tutorial을 봅니다. 미션진행에서 7-80%의 상황은 Tutorial에서 해결할 수 있었습니다.  
 버전업데이트가 빠른 기술영역에서는 가장 정확하고 최신의 내용을 담고 있습니다.  
