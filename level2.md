@@ -47,8 +47,8 @@
 저는 공식문서를 봅니다. 의문을 가질 수도 있을 것 같아요. 시간 없다면서 공식문서를 본다고?  
 
 대부분의 공식문서에는 크게 두 가지 섹션이 존재하는 듯합니다.  
-- 빠르게 주요개념과 유즈케이스를 파악할 수 있는 Tutorial (Quick Start, Get Started 등등)  
-- 디테일한 스펙이 기재되어 있는 Reference  
+- 빠르게 주요개념과 유즈케이스를 파악할 수 있는 Tutorial (Quick Start, Get Started, basic 등등)  
+- 디테일한 스펙이 기재되어 있는 Reference (API 등등)
 
 ![image](https://user-images.githubusercontent.com/44419181/120099771-4dc62680-c178-11eb-8d6b-2f7dd31368be.png)
 
