@@ -2,7 +2,7 @@
 
 ## 글을 시작하며
 
-우테코 프론트엔드 과정은 다섯 개의 Level로 이루어져 있습니다. 9주간 진행된 Level 1 에서는 Third-party library를 전혀 사용하지 않고 오직 JS만을 사용하는 VanillaJS로 개발을 하였습니다. 이번 8주간의 Level 2 에서는 React로 개발을 하였습니다.
+우테코 프론트엔드 과정은 다섯 개의 Level로 이루어져 있습니다. 9주간의 Level 1 에서는 Third-party library를 전혀 사용하지 않고 오직 JS만을 사용하는 VanillaJS로 미션을 진행하였습니다. 이번 8주간의 Level 2 에서는 Facebook에서 개발한 JS Library인 React를 사용하여 미션을 진행하였습니다.
 
 Level 1 기간에 VanillaJS를 공부할 때는 이렇게 공부하면 되겠다는 방향성에 대한 감각이 있었는데, Level 2 기간은 처음 접해보는 React로 인해 완전히 망망대해에 홀로 떨어진 기분이었습니다. Level 2를 마무리하는 현시점이 되어서야, React 공부에 대한 가느다란 실마리를 얻은 것 같습니다. 돌이켜보면 Level 1 VanillaJS와 Level 2 React의 학습 방법이 동일한 것 같습니다. 의식하지 못했던 저만의 학습 방법을 이번 Level 2를 통해서 구체화할 수 있었습니다. 저의 학습 방법은 아래와 같습니다.
 
