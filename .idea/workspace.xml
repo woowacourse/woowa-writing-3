@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b86fd638-1d31-41ca-bf0b-81615fab95ff" name="Default Changelist" comment="docs: 손너잘 피드백 반영">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1627697373668" duration="574000" />
       <workItem from="1627742449937" duration="599000" />
       <workItem from="1627784812676" duration="760000" />
-      <workItem from="1627819740562" duration="13478000" />
+      <workItem from="1627819740562" duration="13911000" />
     </task>
     <task id="LOCAL-00001" summary="docs: 글자 오류 수정">
       <created>1616597053894</created>
