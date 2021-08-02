@@ -12,8 +12,6 @@
 
 ![img](https://lh5.googleusercontent.com/2pTGbq-Fo1oqdzGT3xbGkpyY1fHw3hf7-nb0sxWfYAE4oJbMGSupNZu6312MqbgnfXfUtoJPNdRTUwjXWhQL__Hx8tmeX2C2IPCXiBgabKkb2lxFc_HuWGDS_Kilod1sE_DwyZMW)
 
-![img](https://lh6.googleusercontent.com/_EmIsnoF4YfReARdZ6dmrzY6Fs9AaCM9rKDRgG0SvkkWBqjyn7M7Vyb_Q77b2iB9MJxgSz6SOmL00aNvpNwjfWYvKzCSvINQLVDk8A0LhnLknJcgrNPNznbwD_ejN_nTzMk6_X20)
-
 ![img](https://lh3.googleusercontent.com/hce7vjzdEhBeyIasEvebMfal0Jg5ca9emcMPtMhzSjqqX9h7nyfA6MZZBPlAmXlNDVhstd48KN3pd8tUa1h9kCD14mLp30abo8uDLXudduq9QbnGcFeTPrsm6H83TMDACNXcUrXh)
 
 ![img](https://lh4.googleusercontent.com/V9PnuZoKJ88c30OotMVtje9vhrkoEOUlYIVKrg4TDymdsMTS3sC6hYKSW9iLCx30u7hIXoorztBa3W-OF6xpFv2WQ6pQuWvbglXJGdpjSujQq7RLQhmH-qiPuHXMBgm5dpIGjQY0)
