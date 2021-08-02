@@ -26,7 +26,9 @@
 
 사실 개발 외적인 부분에 시간을 소모하는 게 부담이기도 했고, 실제로 PG 승인이 되는 일이 요원해보여 테스트 결제까지만 연결하고, 다른 기능들을 더 개발하는 게 나을까 의지가 약해진 적도 있었습니다. 하지만 팀원들이 저와 제 기획안을 보고 참여한 것이기 때문에 제가 해야 하는 일이라고 생각해 다시 시작했습니다. 실제로 결제가 되는지 여부가 프로젝트의 진척에 큰 부분을 차지할 것으로 믿기로 했습니다.
 
-![img](https://lh6.googleusercontent.com/mPGVvG0WE67MzGx92zqkb7wXjezsOwKAMN36gh1MUYKD_PEygoU0CRUjn5ZzpufPoMPmt9Nm7_g-FoD-PSlNBCZDuToD-8DVm1SOPKTwdcT3FTXfNvQYpCoILA7LprMAMVfrfrF-)그렇게 계속 진행해서, 프로젝트가 테스트 결제 모듈까지 연동을 함과 동시에 PG사 승인에 필요한 준비를 모두 마칠 수 있었습니다.
+![img](https://lh6.googleusercontent.com/mPGVvG0WE67MzGx92zqkb7wXjezsOwKAMN36gh1MUYKD_PEygoU0CRUjn5ZzpufPoMPmt9Nm7_g-FoD-PSlNBCZDuToD-8DVm1SOPKTwdcT3FTXfNvQYpCoILA7LprMAMVfrfrF-)
+
+그렇게 계속 진행해서, 프로젝트가 테스트 결제 모듈까지 연동을 함과 동시에 PG사 승인에 필요한 준비를 모두 마칠 수 있었습니다.
 
 이번 프로젝트를 진행하면서 책임감에 대해 다시금 배우고 있다고 느낍니다. 개발과 동시에 진행하는 사업자 준비는 적지 않은 리소스를 필요로 했지만 그만큼 프로젝트와 팀에 대한 책임감을 느낄 수 있게 해주었던 일이었습니다. 
 
