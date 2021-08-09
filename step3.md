@@ -12,6 +12,11 @@
 
 에디터를 만들어 보고 싶다는 마음으로 이 팀에 들어오긴 했지만, 막상 에디터 개발이 시작되었을 때 시행착오를 겪다가 완성이 늦어지지는 않을지 걱정이 앞섰다. 그래서 남는 시간에 에디터에 대해 이것저것 알아보고 [프로토](https://codesandbox.io/s/svg-drawing-editor-3wx34?file=/src/App.js)[타입](https://codesandbox.io/s/svg-board-move-scale-26z9q)을 간단하게 만들어 보며 공부하는 시간을 가졌다.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/2542730/128658206-a58d880b-3a03-42fb-bb8a-786c4cae432b.gif" alt="prototype1" width="40%" />
+<img src="https://user-images.githubusercontent.com/2542730/128658213-1b4b8677-6da7-4c3a-be4e-6921c0583f32.gif" alt="prototype2" width="40%" />
+</div>
+
 결과적으로 미리 프로토타입을 만들어보았던 것은 개발 도중에 겪을 수 있는 시행착오를 줄이는 데 많은 도움이 되었다. 팀원들과 함께 직접 프로토타입을 움직여 보면서 기능을 사용할 때 생길 수 있는 문제를 미리 인지할 수 있었고, 기능 구현 방향을 더 명확하게 하는 데 도움이 되었다. 무엇보다 어렵게만 느껴졌던 고비를 한 차례 넘겼다는 안도감과 함께, 프로젝트 개발에 더 큰 자신감을 가질 수 있었다.
 
 ## TODO: 방향을 명확하게 잡기
